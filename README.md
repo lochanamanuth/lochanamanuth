@@ -46,8 +46,3 @@ active_missions:
   - "Creating Practical Cybersecurity Videos on YouTube (@lochanactf)"
   - "Leading Shell Space — Teaching Linux & Tech Fundamentals in Sinhala"
 
-
-
-
-
-
