@@ -40,8 +40,8 @@
       </td>
       <td align="center" width="170">
         <a href="https://certdirectory.io/profile/lochana-manuth">
-          <img src="https://img.shields.io/badge/CAPT-Certified_Associate_Penetration_Tester-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black" alt="CAPT" /><br/><br/>
-          <sub><b>Hackviser CAPT</b></sub>
+          <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Professional Certificate V2" /><br/><br/>
+          <sub><b>Google Cybersecurity Professional</b></sub>
         </a>
       </td>
       <td align="center" width="170">
