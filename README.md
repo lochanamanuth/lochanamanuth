@@ -22,6 +22,37 @@
 <br/>
 
 ---
+<!-- Visual Digital Badges Grid -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="170">
+        <a href="https://www.credly.com/users/lochana-manuth-bandara/badges/credly">
+          <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="105" alt="Cisco Ethical Hacker" /><br/>
+          <sub><b>Cisco Ethical Hacker</b></sub>
+        </a>
+      </td>
+      <td align="center" width="170">
+        <a href="https://www.credly.com/users/lochana-manuth-bandara/badges/credly">
+          <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="105" alt="Cisco Intro to Cybersecurity" /><br/>
+          <sub><b>Cisco Intro to Cyber</b></sub>
+        </a>
+      </td>
+      <td align="center" width="170">
+        <a href="https://certdirectory.io/profile/lochana-manuth">
+          <img src="https://img.shields.io/badge/CAPT-Certified_Associate_Penetration_Tester-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black" alt="CAPT" /><br/><br/>
+          <sub><b>Hackviser CAPT</b></sub>
+        </a>
+      </td>
+      <td align="center" width="170">
+        <a href="https://certdirectory.io/profile/lochana-manuth">
+          <img src="https://img.shields.io/badge/Linux_100-Fundamentals-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux 100" /><br/><br/>
+          <sub><b>TCM Security</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 💻 `cat /etc/operator_profile.yml`
 
