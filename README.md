@@ -22,37 +22,12 @@
 <br/>
 
 ---
-<!-- Visual Digital Badges Grid -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="170">
-        <a href="https://www.credly.com/users/lochana-manuth-bandara/badges/credly">
-          <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="105" alt="Cisco Ethical Hacker" /><br/>
-          <sub><b>Cisco Ethical Hacker</b></sub>
-        </a>
-      </td>
-      <td align="center" width="170">
-        <a href="https://www.credly.com/users/lochana-manuth-bandara/badges/credly">
-          <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="105" alt="Cisco Intro to Cybersecurity" /><br/>
-          <sub><b>Cisco Intro to Cyber</b></sub>
-        </a>
-      </td>
-      <td align="center" width="170">
-        <a href="https://certdirectory.io/profile/lochana-manuth">
-          <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Professional Certificate V2" /><br/><br/>
-          <sub><b>Google Cybersecurity</b></sub>
-        </a>
-      </td>
-      <td align="center" width="170">
-        <a href="https://certdirectory.io/profile/lochana-manuth">
-          <img src="https://img.shields.io/badge/Linux_100-Fundamentals-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux 100" /><br/><br/>
-          <sub><b>TCM Security</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<a href="https://certdirectory.io/profile/lochana-manuth?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/lochana-manuth.svg?style=card&theme=dark">
+    <img alt="Lochana Manuth on CertDirectory" src="https://certdirectory.io/badge/lochana-manuth.svg?style=card">
+  </picture>
+</a>
 
 
 ### 💻 `cat /etc/operator_profile.yml`
