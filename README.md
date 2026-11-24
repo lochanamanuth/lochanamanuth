@@ -22,12 +22,7 @@
 <br/>
 
 ---
-<a href="https://certdirectory.io/profile/lochana-manuth?utm_source=github&utm_medium=readme">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/lochana-manuth.svg?style=card&theme=dark">
-    <img alt="Lochana Manuth on CertDirectory" src="https://certdirectory.io/badge/lochana-manuth.svg?style=card">
-  </picture>
-</a>
+
 
 
 ### 💻 `cat /etc/operator_profile.yml`
