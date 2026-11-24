@@ -22,6 +22,32 @@
 <br/>
 
 ---
+
+
+### 💻 `cat /etc/operator_profile.yml`
+
+```yaml
+operator:
+  name: "Lochana Manuth Bandara"
+  handle: "CobraFang"
+  base: "Sri Lanka 🇱🇰"
+  education: "GCE A/L — Engineering Technology (Kumbukgete Central College)"
+
+offensive_focus:
+  - "Red Teaming & Active Directory Exploitation"
+  - "Web Application Security & OWASP Top 10"
+  - "Privilege Escalation, Forensics & Vulnerability Research"
+  - "Responsible Disclosure & Security Auditing"
+
+active_missions:
+  - "Completing TryHackMe Red Teaming & Jr Penetration Tester Paths"
+  - "Publishing CTF Walkthroughs at blog.lochana.online & Medium (@lochana-writeup)"
+  - "Creating Practical Cybersecurity Videos on YouTube (@lochanactf)"
+  - "Leading Shell Space — Teaching Linux & Tech Fundamentals in Sinhala"
+
+
+
+
 <!-- Visual Digital Badges Grid -->
 <div align="center">
   <table>
@@ -54,25 +80,4 @@
   </table>
 </div>
 
-### 💻 `cat /etc/operator_profile.yml`
 
-```yaml
-operator:
-  name: "Lochana Manuth Bandara"
-  handle: "CobraFang"
-  base: "Sri Lanka 🇱🇰"
-  education: "GCE A/L — Engineering Technology (Kumbukgete Central College)"
-
-offensive_focus:
-  - "Red Teaming & Active Directory Exploitation"
-  - "Web Application Security & OWASP Top 10"
-  - "Privilege Escalation, Forensics & Vulnerability Research"
-  - "Responsible Disclosure & Security Auditing"
-
-active_missions:
-  - "Completing TryHackMe Red Teaming & Jr Penetration Tester Paths"
-  - "Publishing CTF Walkthroughs at blog.lochana.online & Medium (@lochana-writeup)"
-  - "Creating Practical Cybersecurity Videos on YouTube (@lochanactf)"
-  - "Leading Shell Space — Teaching Linux & Tech Fundamentals in Sinhala"
-
-certification_roadmap: ["eJPT", "PJPT", "OSCP 🎯"]
